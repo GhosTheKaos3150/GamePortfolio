@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 draw_text(20, 20, (global.scoregame));
-draw_text(20, 40, (dif));
+draw_text(20, 40, (level));
