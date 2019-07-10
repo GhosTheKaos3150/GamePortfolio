@@ -42,7 +42,7 @@
             "Key": "0f3ca553-ff6b-4284-9b49-47118461def4",
             "Value": {
                 "id": "a1b12baa-5614-4652-942a-24ea9162c80e",
-                "resourcePath": "objects\\obj_barrier\\obj_barrier.yy",
+                "resourcePath": "objects\\obj_control\\obj_control.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1b24a978-8698-4cdc-a46a-1ecb26a18a9f",
+            "Value": {
+                "id": "86b1fca0-c719-42a8-b79d-ff13da42cce7",
+                "resourcePath": "sprites\\spr_moeda\\spr_moeda.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "284ce586-a4e5-49d9-8593-70d48544d558",
             "Value": {
                 "id": "7cb9b4ba-d8db-4d8e-8092-75e4042c899a",
@@ -76,6 +84,14 @@
                 "id": "610322a8-13df-47d1-88c7-8bdd9e08e025",
                 "resourcePath": "views\\29443f23-45a6-440c-a521-d55c201c1be6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "304c1bcb-4714-4aa6-81f5-ba1588471356",
+            "Value": {
+                "id": "51e0fe0b-615e-4fbc-b5c1-80591354bebf",
+                "resourcePath": "objects\\obj_moeda\\obj_moeda.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "8f5d4514-1fdd-4e47-bfd2-3385a45f9a22",
+            "Value": {
+                "id": "8a604792-77fa-41a4-9829-411d60856fb3",
+                "resourcePath": "objects\\obj_puf\\obj_puf.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "945c8d65-353c-41fd-b25d-bebf9513fc1d",
             "Value": {
                 "id": "c864e293-20c4-44bc-99c4-6259946aa4c0",
@@ -220,6 +244,14 @@
                 "id": "80f57dfe-2be2-472a-823f-4e428c7f6cc0",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d6f08e38-7d39-4445-87fd-df6a9916888d",
+            "Value": {
+                "id": "dea6d252-7a69-4f43-9160-ca7feaaf29b0",
+                "resourcePath": "sprites\\spr_puf\\spr_puf.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
