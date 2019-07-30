@@ -5,7 +5,8 @@
     "name": "3c0fe670-03c4-44c3-9bce-980a11e08ebe",
     "children": [
         "53ed188b-afab-4773-96f6-cb5f30cde1cf",
-        "9947c271-e2b5-46b3-85ef-02d1d719cd04"
+        "9947c271-e2b5-46b3-85ef-02d1d719cd04",
+        "448e7b4f-e360-4635-9aaf-c19b75c5c283"
     ],
     "filterType": "GMObject",
     "folderName": "Explosion",

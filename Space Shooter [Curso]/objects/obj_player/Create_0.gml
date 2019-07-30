@@ -2,3 +2,4 @@
 // You can write your code in this editor
 
 velocidade = 3;
+vida = 3;

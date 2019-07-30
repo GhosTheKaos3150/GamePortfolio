@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2a82f9e8-c5b5-4a04-8bb5-0b3d862c1818",
+            "Value": {
+                "id": "9b3f3bf1-f20b-4224-b64f-92f1e7a60c5e",
+                "resourcePath": "objects\\obj_tiroenemie2\\obj_tiroenemie2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "39c492b4-50bd-4840-9d34-a845d856f914",
             "Value": {
                 "id": "cff6028e-1266-43f4-8c82-45e433722336",
@@ -108,6 +116,14 @@
                 "id": "8c97cef7-6f64-4ed2-9886-8ec28e5f6a27",
                 "resourcePath": "sprites\\spr_enemie\\spr_enemie.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "448e7b4f-e360-4635-9aaf-c19b75c5c283",
+            "Value": {
+                "id": "5e8356cf-2a8e-4493-8b21-8f7aa2e0ef4a",
+                "resourcePath": "objects\\obj_boom_player\\obj_boom_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -263,6 +279,14 @@
             }
         },
         {
+            "Key": "ca7a4e9b-2e0e-43ce-89b3-cce436fe9897",
+            "Value": {
+                "id": "acaa5164-16dc-470d-b5c6-9105b5a8694f",
+                "resourcePath": "sprites\\spr_tiroenemie2\\spr_tiroenemie2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc0d8257-4a45-498a-9f08-f9b09d0311f8",
             "Value": {
                 "id": "a726063e-96c5-4645-947d-d9fbff7f9cbc",
@@ -279,6 +303,14 @@
             }
         },
         {
+            "Key": "d3213d81-476a-4ca8-83bd-6b9f1c611a0f",
+            "Value": {
+                "id": "77ff310f-98c9-4586-b802-e9d6eae7f8ee",
+                "resourcePath": "sprites\\spr_enemie2\\spr_enemie2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d345dbe8-e077-4d42-be4c-9b46b4fa7023",
             "Value": {
                 "id": "03b51400-4e18-4a2e-a9bc-e31ebeefb66d",
@@ -292,6 +324,14 @@
                 "id": "1a814c89-f878-454f-b3ae-215127ccbe19",
                 "resourcePath": "views\\d66f8cf4-4566-4843-834c-b63913fd8408.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "daff1513-9fb3-42d9-9835-4080283563af",
+            "Value": {
+                "id": "01326bac-dcb0-4f7a-be8b-b0c0cad7ed74",
+                "resourcePath": "objects\\obj_enemie2\\obj_enemie2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
