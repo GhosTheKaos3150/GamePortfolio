@@ -226,7 +226,7 @@
             "Key": "e1b72256-b465-4ea7-8533-78786e6c7c90",
             "Value": {
                 "id": "5e715e5a-be2a-4c94-bb71-b201b756468b",
-                "resourcePath": "objects\\obj_cntrl\\obj_cntrl.yy",
+                "resourcePath": "objects\\obj_control\\obj_control.yy",
                 "resourceType": "GMObject"
             }
         },
