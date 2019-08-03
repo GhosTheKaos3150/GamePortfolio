@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-draw_text(room_width/2, room_height/4,"Teste Concluido.\nPressione ESC para sair");
+global.nome = 0;
+num = 1;
+
+room_next(room_scene2);

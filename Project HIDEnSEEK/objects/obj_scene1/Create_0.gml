@@ -3,3 +3,5 @@
 
 global.nome = 0;
 num = 1;
+
+room_next(room_scene2);
