@@ -11,7 +11,7 @@ while (num <= 2) {
 		
 	} else {
 		
-		if (obj_player.redkey == true) instance_create_layer(288,600+96*(num-1),"botao",obj_botao);
+		instance_create_layer(288,600+96*(num-1),"botao",obj_botao);
 			
 		instance_create_layer(736,600+96*(num-1),"botao",obj_botao);
 		

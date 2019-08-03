@@ -4,4 +4,6 @@
 global.nome = 0;
 num = 1;
 
+message = "Pressione ESC para SAIR";
+
 room_next(room_scene2);
